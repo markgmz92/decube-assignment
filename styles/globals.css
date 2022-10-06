@@ -11,6 +11,25 @@ a {
   text-decoration: none;
 }
 
+.counter-div {
+  display: flex;
+}
+
+button {
+  background-color: white;
+  color: black;
+  height: 24px;
+  width: 8%;
+}
+
+
+
+
+
+
+
+
+
 * {
   box-sizing: border-box;
 }
